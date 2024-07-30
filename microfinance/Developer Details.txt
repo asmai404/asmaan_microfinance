@@ -1,0 +1,66 @@
+**App: Asmaan Microfinance**
+
+**Database Name: my_microfinance.sql**
+
+**Developed by Asmawu Ibrahim**
+
+**Recommended PHP Version 8.1 and above**
+
+
+**Login Details**
+
+Super-admin Email: superadmin@gmail.com
+Password:  QW90qw.,
+
+Admin Email: admin@gmail.com
+Password: QW90qw.,
+
+Standard User Email (Has Applied for loan): user@gmail.com
+Password: QW90qw.,
+
+Standard User Email (Has not Applied for loan): user2@gmail.com
+Password: QW90qw.,
+
+**Loan Applicants Details**
+
+Loanee 1:
+-> email: ss@gmail.com
+-> password: QW90qw.,
+
+Loanee 2:
+-> email: ga@gmail.com
+-> password: QW90qw.,
+
+Loanee 3:
+-> email: ya@gmail.com
+-> password: QW90qw.,
+
+
+
+**Clients Details**
+
+client 1:
+-> email: ss@gmail.com
+-> password: QW90qw.,
+
+client 2:
+-> email: ga@gmail.com
+-> password: QW90qw.,
+
+client 3:
+-> email: ya@gmail.com
+-> password: QW90qw.,
+
+
+
+** Momo Account and Bank Account**
+-> Pin
+# For all clients: 1234 
+
+-> Initial balance
+# For all clients: 1000
+
+
+
+
+
