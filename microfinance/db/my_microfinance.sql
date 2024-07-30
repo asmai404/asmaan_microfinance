@@ -17,6 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
+DROP DATABASE IF EXISTS my_mycrofinance; 
+CREATE DATABASE my_mycrofinance;
+USE my_mycrofinance;
+
 --
 -- Database: `my_microfinance`
 --
